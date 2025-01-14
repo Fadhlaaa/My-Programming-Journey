@@ -1,4 +1,4 @@
-#define BUZZER_PIN 27
+#define BUZZER_PIN 17
 
 void setup() {
 
